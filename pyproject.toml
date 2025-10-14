@@ -6,7 +6,7 @@ authors = ["Djolo1802 <veljkovic.djordje@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = ">=3.11,<3.13"
 six = "^1.17.0"
 numpy = "^2.3.3"
 matplotlib = "^3.10.6"
